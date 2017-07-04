@@ -1,11 +1,11 @@
-# dev3map
+# colmap
 
-Worldmap for the Devoted 3.0 Minecraft server
+Worldmap for the COMMONWEALTH OF LIBERTY!
 
 Provides the most up-to-date and complete information on land claims, travel routes, and points of interest.
 
-The [displayed data](https://github.com/dev3map/data)
-and [map tiles](https://github.com/dev3map/tiles)
+The [displayed data](https://github.com/1337god/data)
+and [map tiles](https://github.com/1337god/tiles)
 are stored in separate repositories.
 
 Uses [CivMap](https://github.com/Gjum/CivMap).
